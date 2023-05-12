@@ -1,3 +1,3 @@
 # 484_final_project
-a 2048 game
+a music box, which able to play the rhythms and play as a piano
 
