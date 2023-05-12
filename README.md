@@ -3,7 +3,5 @@ This is the project about using the buzzer, buttons, and led to build a synthesi
 
 # Submitted files
 Arduino code
-
 Demo videos
-
 Project report(WIKI)
