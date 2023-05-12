@@ -1,4 +1,4 @@
-# Synthesizer build by arduino
+# Synthesizer builded based on arduino
 This is the project about using the buzzer, buttons, and led to build a synthesizer which able to play the rhythms and use as a simple piano.
 
 # Submitted files
